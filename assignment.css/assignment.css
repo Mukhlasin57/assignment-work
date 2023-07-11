@@ -1,0 +1,53 @@
+/* Common Shared Styles */
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* Header Part */
+
+.header {
+    background: rgba(229, 84, 115, 0.10);
+}
+
+.top-part {
+    display: flex;
+    justify-content: space-between;
+}
+
+.btn-primary {
+    border-radius: 8px;
+    background: #E55473;
+    border: 0px;
+    font-size: 20px;
+    font-weight: 700;
+    color: #fff;
+    padding: 20px 43px;
+    display: inline-flex;
+    align-items: flex-start;
+
+    
+}
+
+.top-part .first-pic {
+    width: 635px;
+    padding: 50px 240px 0px 50px;
+}
+
+.banner-top {
+    font-size: 80px;
+    color: #272727;
+    margin-bottom: 32px;
+    width: 750px;
+    padding: 50px 0px 0px 200px;
+    
+   
+}
+
+.banner-description {
+    font-size: 18px;
+    font-weight: 400;
+    color: rgba(39, 39, 39, 0.60);
+    line-height: 30px;
+    width: 700px;
+    padding: 0px 0px 0px 200px;
+}
